@@ -1,0 +1,32 @@
+ul{
+  font-size: 24px;
+  color: azure;
+}
+a:hover{
+    color: azure;
+    background-color: red;
+}
+a{
+    font-size: 24px;
+    background: black;
+}
+ 
+#searchbar {
+ position: absolute;
+ top: 50px;
+ right: 50px;
+ color: black;
+}
+
+b{
+    color: azure;
+    font-size: 24px;
+}
+h2{
+    color: azure;
+
+}
+h1{
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
