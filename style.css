@@ -2,6 +2,9 @@ ul{
   font-size: 24px;
   color: azure;
 }
+body{
+    background: red;
+}
 a:hover{
     color: azure;
     background-color: red;
@@ -30,3 +33,43 @@ h1{
     color: azure;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+@media(max-width: 480px){
+    #searchbar {
+        position: absolute;
+        top: 20px;
+        right: 50px;
+        color: black;
+       }
+
+  #pic{
+    max-width: 100%;
+    height: auto
+  }
+
+
+body{
+    background: black;
+}
+
+h2{
+    color: red;
+}
+
+b{
+    color: red;
+}
+
+ul{
+    color: red;
+}
+
+h1{
+    color: red;
+}
+
+a{
+    color: red;
+}
+}
+    
